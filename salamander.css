@@ -1,7 +1,7 @@
 .picbox {
 	position: absolute;
-	top: 10%;
-	left: 30%
+	top: 100px;
+	left: 200px;
 	width: 425px;
 	height: 601px;
 	background-image: 'sally1.jpg';
